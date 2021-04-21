@@ -1,0 +1,11 @@
+#clown:hover{
+    cursor: url(img/clown.png), auto;
+}
+@keyframes rotate{
+    0% {
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(20);
+    }
+}
